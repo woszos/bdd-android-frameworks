@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BddAplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_circle">CircleActivity</string>
+    <string name="title_activity_square">SquareActivity</string>
+    <string name="title_activity_cuboid">CuboidActivity</string>
+    <string name="radius">Radius</string>
+    <string name="calculate">Calculate</string>
+    <string name="incorrect_data">Incorrect data</string>
+    <string name="radius_must_be_non_negative">Radius must be non-negative</string>
+    <string name="area_of_a_circle">Area of a circle</string>
+    <string name="square_title">Area of a square</string>
+    <string name="value_l">The value of L</string>
+    <string name="value_w">The value of W</string>
+    <string name="value_h">The value of H</string>
+    <string name="value_x">The value of X</string>
+    <string name="value_y">The value of Y</string>
+    <string name="cuboid_title">The volume of the cuboid</string>
+</resources>
